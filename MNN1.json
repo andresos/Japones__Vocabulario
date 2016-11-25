@@ -16,7 +16,7 @@
                 "leechAction": 0, 
                 "leechFails": 8, 
                 "minInt": 1, 
-                "mult": 0.0
+                "mult": 0
             }, 
             "maxTaken": 60, 
             "name": "Default", 
@@ -41,17 +41,17 @@
                 "bury": true, 
                 "ease4": 1.3, 
                 "fuzz": 0.05, 
-                "ivlFct": 1.0, 
+                "ivlFct": 1, 
                 "maxIvl": 36500, 
                 "minSpace": 1, 
-                "perDay": 200
+                "perDay": 100
             }, 
             "timer": 0
         }
     ], 
     "desc": "", 
     "dyn": 0, 
-    "extendNew": 15, 
+    "extendNew": 5, 
     "extendRev": 50, 
     "media_files": [
         "11 - Dai 1 ka- 社員.mp3", 
@@ -81,6 +81,7 @@
         "11 - Dai 1 ka- 教師.mp3", 
         "11 - Dai 1 ka- エンジニア.mp3"
     ], 
+    "mid": 1455017747492, 
     "name": "MNN1", 
     "note_models": [
         {
@@ -297,7 +298,7 @@
             "fields": [
                 "お手洗い", 
                 "お 手[て] 洗[あら]い", 
-                "Servicio", 
+                "Lavabos, baño", 
                 ""
             ], 
             "flags": 0, 
@@ -1810,7 +1811,7 @@
             "fields": [
                 "切手", 
                 "切手[きって]", 
-                "sello", 
+                "Sello postal (estampilla)", 
                 ""
             ], 
             "flags": 0, 
@@ -2814,7 +2815,7 @@
             "fields": [
                 "料理", 
                 "料理[りょうり]", 
-                "cocina", 
+                "cocina típica ", 
                 ""
             ], 
             "flags": 0, 
@@ -2830,7 +2831,7 @@
             "data": "", 
             "fields": [
                 "飲み物", 
-                "飲[のみ]み 物[もの]", 
+                "飲[の]み 物[もの]", 
                 "bebida", 
                 ""
             ], 
@@ -4363,7 +4364,7 @@
             "fields": [
                 "緑", 
                 "緑[みどり]", 
-                "verde naturaleza", 
+                "Verde, naturaleza", 
                 ""
             ], 
             "flags": 0, 
@@ -6590,7 +6591,7 @@
             "fields": [
                 "古い", 
                 "古[ふる]い", 
-                "viejo", 
+                "viejo (cosas) ", 
                 ""
             ], 
             "flags": 0, 
@@ -8084,8 +8085,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "大丈夫な", 
-                "大丈夫[だいじょうぶ]な", 
+                "大丈夫(な)", 
+                "大丈夫[だいじょうぶ](な)", 
                 "a salvo, bien, ok", 
                 ""
             ], 
@@ -8937,7 +8938,7 @@
             "fields": [
                 "眠い", 
                 "眠[ねむ]い", 
-                "tener sueño", 
+                "Somnoliento", 
                 ""
             ], 
             "flags": 0, 
@@ -8988,7 +8989,7 @@
             "fields": [
                 "体にいい", 
                 "体[からだ]にいい", 
-                "bueno para la salud", 
+                "bueno para el cuerpo", 
                 ""
             ], 
             "flags": 0, 
@@ -9175,7 +9176,7 @@
             "fields": [
                 "日", 
                 "日[ひ]", 
-                "dia", 
+                "día", 
                 ""
             ], 
             "flags": 0, 
@@ -9243,7 +9244,7 @@
             "fields": [
                 "お陰様で", 
                 "お 陰様[かげさま]で", 
-                "por suerte", 
+                "Gracias a dios, por suerte", 
                 ""
             ], 
             "flags": 0, 
@@ -9277,7 +9278,7 @@
             "fields": [
                 "出来ます", 
                 "出来[でき]ます", 
-                "poder", 
+                "poder (ser capaz) ", 
                 "出来る"
             ], 
             "flags": 0, 
@@ -11440,7 +11441,7 @@
             "fields": [
                 "健康にいい", 
                 "健康[けんこう]にいい", 
-                "saludable", 
+                "Bueno para la salud", 
                 ""
             ], 
             "flags": 0, 
@@ -11714,7 +11715,7 @@
             "fields": [
                 "お風呂に入ります", 
                 "お 風呂[ふろ]に 入[はい]ります", 
-                "tomar un baño", 
+                "tomar un baño (tina tradicional)", 
                 ""
             ], 
             "flags": 0, 
@@ -11849,8 +11850,8 @@
             "data": "", 
             "fields": [
                 "<div>ご馳走様でした</div>", 
-                "ご 馳走様[ちそうさま]でした", 
-                "Provecho (se dice después de comer) ", 
+                "ご 馳走様[ちそうさま](でした)", 
+                "Muchas gracias por la comida (al terminar de comer/beber) ", 
                 ""
             ], 
             "flags": 0, 
@@ -11858,7 +11859,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Frases_hechas", 
-                "Lección19"
+                "Lección23"
             ]
         }, 
         {
@@ -13123,7 +13124,7 @@
             "fields": [
                 "負けます", 
                 "負[ま]けます", 
-                "Perder", 
+                "Perder (un partido) ", 
                 "負ける"
             ], 
             "flags": 0, 
@@ -13171,7 +13172,7 @@
             "fields": [
                 "無駄(な)", 
                 "無駄[むだ](な)", 
-                "Desperdiciar, malgastar", 
+                "Desperdiciado, malgastado", 
                 ""
             ], 
             "flags": 0, 
@@ -13219,7 +13220,7 @@
             "fields": [
                 "すごい", 
                 "すごい", 
-                "Horroroso, maravilloso", 
+                "Super, maravilloso", 
                 ""
             ], 
             "flags": 0, 
@@ -13539,7 +13540,7 @@
             "fields": [
                 "本当に", 
                 "本当[ほんとう]に", 
-                "Realmente", 
+                "De verdad, realmente", 
                 ""
             ], 
             "flags": 0, 
@@ -13899,6 +13900,548 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Lección22"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "先生に聞きます", 
+                "先生[せんせい]に 聞[き]きます", 
+                "Preguntar al profesor ", 
+                "先生に聞く"
+            ], 
+            "flags": 0, 
+            "guid": "w,fN2", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "回します", 
+                "回[まわ]します", 
+                "Girar", 
+                "回す"
+            ], 
+            "flags": 0, 
+            "guid": "O_t51", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "引きます", 
+                "引[ひ]きます", 
+                "Tirar, jalar", 
+                "引く"
+            ], 
+            "flags": 0, 
+            "guid": "F|,CS", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "変えます", 
+                "変[か]えます", 
+                "Cambiar", 
+                "変える"
+            ], 
+            "flags": 0, 
+            "guid": "T,>d8", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "触ります", 
+                "触[さわ]ります", 
+                "Tocar (puerta) ", 
+                "触る"
+            ], 
+            "flags": 0, 
+            "guid": "Hvk,", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ドアに触ります", 
+                "ドアに 触[さわ]ります", 
+                "Tocar una puerta ", 
+                "ドアに触る"
+            ], 
+            "flags": 0, 
+            "guid": "oLdU1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お釣りが出ます", 
+                "お 釣[つ]りが 出[で]ます", 
+                "Salir el cambio ", 
+                "お釣りが出る"
+            ], 
+            "flags": 0, 
+            "guid": "hC:K1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "動きます", 
+                "動[うご]きます", 
+                "Mover, funcionar (reloj) ", 
+                "動く"
+            ], 
+            "flags": 0, 
+            "guid": "pM1}8", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "時計が動きます", 
+                "時[と] 計[けい]が 動[うご]きます", 
+                "Funciona un reloj ", 
+                "時計が動く"
+            ], 
+            "flags": 0, 
+            "guid": "BBdkR", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "歩きます", 
+                "歩[ある]きます", 
+                "Caminar", 
+                "歩く"
+            ], 
+            "flags": 0, 
+            "guid": "_zf=9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "道を歩きます", 
+                "道[みち]を 歩[ある]きます", 
+                "Caminar por la calle ", 
+                "道を歩く"
+            ], 
+            "flags": 0, 
+            "guid": "e1Sc8", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "渡ります", 
+                "渡[わた]ります", 
+                "Cruzar, atravesar", 
+                "渡る"
+            ], 
+            "flags": 0, 
+            "guid": "aU<AT", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "橋を渡ります", 
+                "橋[はし]を 渡[わた]ります", 
+                "Cruzar un puente ", 
+                "橋を渡る"
+            ], 
+            "flags": 0, 
+            "guid": "]Ux*I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "気をつけます", 
+                "気[き]をつけます", 
+                "Prestar atención, cuidar", 
+                "気をつける"
+            ], 
+            "flags": 0, 
+            "guid": "B3h05", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "車に気をつけます", 
+                "車[くるま]に 気[き]をつけます", 
+                "Prestar atención a vehículos ", 
+                "車に気をつける"
+            ], 
+            "flags": 0, 
+            "guid": "/ab>F", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "引っ越しします", 
+                "引[ひ]っ 越[こ]しします", 
+                "Mudar, trasladarse de casa ", 
+                "引っ越しする"
+            ], 
+            "flags": 0, 
+            "guid": "FKh23", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "電気屋", 
+                "電気屋[でんきや]", 
+                "Electricista ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "riD@4", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "サイズ", 
+                "サイズ", 
+                "Tamaño, talla ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "0[8SB", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "音", 
+                "音[おと]", 
+                "Sonido ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "mU4;F", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "機械", 
+                "機械[きかい]", 
+                "Máquina", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "[8CXQ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "つまみ", 
+                "つまみ", 
+                "Botón (TV, radio, etc.) ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Wt589", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "故障", 
+                "故[こ] 障[しょう]", 
+                "Avería", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "+tQ~L", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "道", 
+                "道[みち]", 
+                "Calle, camino ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "=UjYH", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "交差点", 
+                "交差点[こうさてん]", 
+                "Cruce de caminos ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "t06j", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "角", 
+                "角[かど]", 
+                "Esquina ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ">a*!9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "橋", 
+                "橋[はし]", 
+                "Puente", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "*JXIB", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "駐車場", 
+                "駐車場[ちゅうしゃじょう]", 
+                "Parque de estacionamiento ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ",FRwQ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "(お)正月", 
+                "(お) 正月[しょうがつ]", 
+                "Año nuevo ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "]@#MU", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "建物", 
+                "建物[たてもの]", 
+                "Edificio ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "MA_m4", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "外国人登録証", 
+                "外国人登録証[がいこくじんとうろくしょう]", 
+                "Carnet de registro de extranjeros ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "A4ifL", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección23"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "東", 
+                "東[ひがし]", 
+                "Este", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hl?s4", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "puntoCardinal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "西", 
+                "西[にし]", 
+                "Oeste", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "xQbLT", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "puntoCardinal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "南", 
+                "南[みなみ]", 
+                "Sur", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "?w?xM", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "puntoCardinal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "北", 
+                "北[きた]", 
+                "Norte", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Z|!^G", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "puntoCardinal"
             ]
         }
     ]
