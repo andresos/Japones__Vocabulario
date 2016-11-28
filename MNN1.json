@@ -187,6 +187,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección3"
             ]
         }, 
@@ -221,6 +222,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección3"
             ]
         }, 
@@ -399,7 +401,7 @@
             "data": "", 
             "fields": [
                 "家", 
-                "家[うち]", 
+                "家[うち、いえ]", 
                 "Casa", 
                 ""
             ], 
@@ -407,6 +409,7 @@
             "guid": "JB[On?6D3r", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -543,6 +546,7 @@
             "guid": "EU<U6q,%jd", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Particula_interrogativa"
             ]
@@ -680,6 +684,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección2"
             ]
         }, 
@@ -697,6 +702,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección2"
             ]
         }, 
@@ -959,8 +965,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "椅子", 
-                "椅子[いす]", 
+                "いす", 
+                "いす", 
                 "silla", 
                 ""
             ], 
@@ -968,6 +974,7 @@
             "guid": "swX](V.Fx5", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto_mueble"
             ]
@@ -1155,6 +1162,7 @@
             "guid": "eg:(Bi:Jf/", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Verbo"
             ]
@@ -1801,6 +1809,7 @@
             "guid": "d(,|RHh-xo", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección11", 
                 "Particula_interrogativa"
             ]
@@ -2737,6 +2746,7 @@
             "guid": "d,]~`SYOD8", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Verbo"
             ]
@@ -3607,6 +3617,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3726,6 +3737,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3743,6 +3755,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -4076,12 +4089,13 @@
                 "シャワーを浴びます", 
                 "シャワーを 浴[あ]びます", 
                 "ducharse", 
-                ""
+                "シャワーを浴びる"
             ], 
             "flags": 0, 
             "guid": "k>}s[x~f9#", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección16", 
                 "Verbo"
             ]
@@ -4168,6 +4182,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección16"
             ]
         }, 
@@ -4634,9 +4649,9 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "暖かい<div>温かい</div>", 
-                "暖[あたた]かい<div>温[あたた]かい</div>", 
-                "cálido, templado", 
+                "暖かい", 
+                "暖[あたた]かい", 
+                "cálido, templado (clima) ", 
                 ""
             ], 
             "flags": 0, 
@@ -4644,6 +4659,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4678,6 +4694,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4797,6 +4814,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Fecha", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4848,6 +4866,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Clima", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -5085,6 +5104,7 @@
             "guid": "l9d`ZqaV+%", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Verbo"
             ]
@@ -5765,6 +5785,7 @@
             "guid": "nGytfb<Sxf", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -6157,6 +6178,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6582,6 +6604,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6616,6 +6639,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -6642,7 +6666,7 @@
             "fields": [
                 "暑い", 
                 "暑[あつ]い", 
-                "caluroso (el tiempo)", 
+                "caluroso (el clima)", 
                 ""
             ], 
             "flags": 0, 
@@ -6650,6 +6674,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6820,6 +6845,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6888,6 +6914,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Color", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6905,6 +6932,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Color", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -7041,6 +7069,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -7125,6 +7154,7 @@
             "guid": "fe{2U5.#ej", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección13", 
                 "Verbo"
             ]
@@ -7567,6 +7597,7 @@
             "guid": "b[QD^SGa=h", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección1", 
                 "Pronombre_personal"
             ]
@@ -7806,6 +7837,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección1"
             ]
         }, 
@@ -7873,6 +7905,7 @@
             "guid": "qe#a^@{I?y", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección1", 
                 "Profesion"
             ]
@@ -8112,6 +8145,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección17"
             ]
         }, 
@@ -8129,6 +8163,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección17"
             ]
         }, 
@@ -8461,14 +8496,16 @@
             "fields": [
                 "開けます", 
                 "開[あ]けます", 
-                "abrir", 
+                "abrir (transitivo) ", 
                 "開ける"
             ], 
             "flags": 0, 
             "guid": "lPIWb?FErq", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección14", 
+                "transitivo", 
                 "Verbo"
             ]
         }, 
@@ -8792,6 +8829,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección14"
             ]
         }, 
@@ -10951,7 +10989,7 @@
             "guid": "eiT^Z$_.;W", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "Lección14", 
+                "JLPT.N5", 
                 "Lección18", 
                 "Verbo"
             ]
@@ -11071,6 +11109,7 @@
             "guid": "tepA|-@,`@", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección14", 
                 "Lugar"
             ]
@@ -13035,6 +13074,7 @@
             "guid": "|e?i3", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección20"
             ]
         }, 
@@ -13083,7 +13123,9 @@
             "guid": "<1br1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "Lección21"
+                "JLPT.N5", 
+                "Lección21", 
+                "Verbo"
             ]
         }, 
         {
@@ -13899,6 +13941,7 @@
             "guid": "[D8.", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección22"
             ]
         }, 
@@ -14057,7 +14100,9 @@
             "guid": "_zf=9", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "Lección23"
+                "JLPT.N5", 
+                "Lección23", 
+                "Verbo"
             ]
         }, 
         {
@@ -14442,6 +14487,757 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "puntoCardinal"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "開きます", 
+                "開[あ]きます", 
+                "Abrir (intransitivo)", 
+                "開く"
+            ], 
+            "flags": 0, 
+            "guid": "=dMH1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "intransitivo", 
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "足", 
+                "足[あし]", 
+                "Pie, pierna", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "3w0-P", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Parte_del_cuerpo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "頭", 
+                "頭[あたま]", 
+                "Cabeza", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "S%7UO", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Parte_del_cuerpo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "熱い", 
+                "熱[あつ]い", 
+                "Caliente (al tacto) ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "fBdZH", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "JLPT.N5", 
+                "Lección8"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "厚い", 
+                "厚[あつ]い", 
+                "Amable, profundo, grueso", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "aAxeO", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "兄", 
+                "兄[あに]", 
+                "Hermano mayor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "N_p:I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "pariente"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "姉", 
+                "姉[あね]", 
+                "Hermana mayor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "5F5KC", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "pariente"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "飴", 
+                "飴[あめ]", 
+                "Dulce, caramelo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "~7b_D", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "意味", 
+                "意味[いみ]", 
+                "Significado", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "6tRD1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "妹", 
+                "妹[いもうと]", 
+                "Hermana menor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "A+/e2", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "嫌", 
+                "嫌[いや]", 
+                "Desagradable", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "^}1@Q", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "入口", 
+                "入口[いりぐち]", 
+                "Entrada", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "X@y0F", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "色", 
+                "色[いろ]", 
+                "Color", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "BDyeR", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "薄い", 
+                "薄[うす]い", 
+                "Delgado, débil", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "r.Mc5", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "煩い", 
+                "煩[うるさ]い", 
+                "Ruidoso, molesto", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "9cQOC", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "映画館", 
+                "映画館[えいがかん]", 
+                "Cine", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Hh/43", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "大勢", 
+                "大勢[おおぜい]", 
+                "Muchedumbre", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "<]],4", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お母さん", 
+                "お母[かあ]さん", 
+                "Mamá", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "OB6pJ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お菓子", 
+                "お 菓子[かし]", 
+                "Dulces", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "SN4sC", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "奥さん", 
+                "奥[おく]さん", 
+                "Esposa", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "L@j2V", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "おじいさん", 
+                "おじいさん", 
+                "Abuelo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Xd}n9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "おじさん", 
+                "おじさん", 
+                "Tío", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "IqT=S", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": []
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お父さん", 
+                "お父[とう]さん", 
+                "Papá ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "JH=8D", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "弟", 
+                "弟", 
+                "Hermano menor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "9T9|U", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "一昨年", 
+                "一昨年[おととし]", 
+                "El año antepasado", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "LoXdK", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "大人", 
+                "大人[おとな]", 
+                "Adulto", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ">g1a3", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お兄さん", 
+                "お兄[にい]さん", 
+                "Hermano mayor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "uVr5C", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お姉さん", 
+                "お姉[ねえ]さん", 
+                "Hermana mayor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "l}FH1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "おばあさん", 
+                "おばあさん", 
+                "Abuela", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "W8HmQ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "おばさん", 
+                "おばさん", 
+                "Tía", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ytUdK", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お弁当", 
+                "お 弁当[べんとう]", 
+                "Lunch", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "lMppT", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お巡りさん", 
+                "お 巡[まわ]りさん", 
+                "Policía (amigable) ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "EM?NP", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "カップ", 
+                "カップ", 
+                "Taza", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "7{;gO", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "家庭", 
+                "家庭", 
+                "Household", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "!P4E1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "花瓶", 
+                "花瓶[かびん] ", 
+                "Florero", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "]CfHL", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "カレンダー", 
+                "カレンダー", 
+                "Calendario", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "5qY3F", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "黄色い", 
+                "黄色[きいろ]い", 
+                "Amarillo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Oq[;U", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "消えます", 
+                "消[き]えます", 
+                "Desaparecer", 
+                "消える"
+            ], 
+            "flags": 0, 
+            "guid": "4X{X5", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "兄弟", 
+                "兄弟[きょうだい]", 
+                "Hermanos", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "~LnbO", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "キロ", 
+                "キロ", 
+                "Kilo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "N!)i3", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "キログラム", 
+                "キログラム", 
+                "Kilogramo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "zbK$9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "キロメートル", 
+                "キロメートル", 
+                "Kilómetro", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "!*J9C", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "グラム", 
+                "グラム", 
+                "Gram", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "wBGnG", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "警官", 
+                "警官[けいかん]", 
+                "Oficial de policía", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ZP?*E", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "結構", 
+                "結構[けっこう]", 
+                "Espléndido, suficiente", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "@ibCR", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "玄関", 
+                "玄関[げんかん]", 
+                "Recibidor", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "^#dJR", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "温かい", 
+                "温[あたた]かい", 
+                "Cálido, templado (tacto) ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "`wgJ4", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "JLPT.N5", 
+                "Lección12"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "いかが", 
+                "いかが", 
+                "Cómo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "KK.>P", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
             ]
         }
     ]
