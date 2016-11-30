@@ -8531,8 +8531,13 @@
             "tags": [
                 "JLPT.N5", 
                 "Lección14", 
+<<<<<<< .merge_file_a18576
                 "Verbo", 
                 "transitivo"
+=======
+                "transitivo", 
+                "Verbo"
+>>>>>>> .merge_file_a23412
             ]
         }, 
         {
@@ -14545,9 +14550,15 @@
             "guid": "=dMH1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+<<<<<<< .merge_file_a18576
                 "JLPT.N5", 
                 "Verbo", 
                 "intransitivo"
+=======
+                "intransitivo", 
+                "JLPT.N5", 
+                "Verbo"
+>>>>>>> .merge_file_a23412
             ]
         }, 
         {
@@ -14886,7 +14897,11 @@
             "data": "", 
             "fields": [
                 "弟", 
+<<<<<<< .merge_file_a18576
                 "弟[おとうと]", 
+=======
+                "弟", 
+>>>>>>> .merge_file_a23412
                 "Hermano menor", 
                 ""
             ], 
