@@ -1,4 +1,4 @@
-{
+﻿{
     "__type__": "Deck", 
     "children": [], 
     "crowdanki_uuid": "23c4b8cf-a515-11e6-940d-b8763f415db8", 
@@ -33,7 +33,7 @@
                     7
                 ], 
                 "order": 0, 
-                "perDay": 100, 
+                "perDay": 50, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -71,6 +71,7 @@
         "11 - Dai 1 ka- おいくつ.mp3", 
         "11 - Dai 1 ka- 医者.mp3", 
         "11 - Dai 1 ka- はい.mp3", 
+        "_YuGothic-Regular.ttf", 
         "11 - Dai 1 ka- 歳.mp3", 
         "11 - Dai 1 ka- あの人.mp3", 
         "11 - Dai 1 ka- あなた.mp3", 
@@ -80,6 +81,7 @@
         "11 - Dai 1 ka- 教師.mp3", 
         "11 - Dai 1 ka- エンジニア.mp3"
     ], 
+    "mid": 1455017747492, 
     "name": "MNN1", 
     "note_models": [
         {
@@ -126,7 +128,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Básico (Japanese)-37d69", 
+            "name": "Básico (Japanese)", 
             "req": [
                 [
                     0, 
@@ -254,6 +256,7 @@
             "guid": "D54W&3~/A$", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -305,6 +308,7 @@
             "guid": "BG4vzd:Ne)", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -322,6 +326,7 @@
             "guid": "rK@JRFl*s>", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -339,6 +344,7 @@
             "guid": "u!,z-85sDn", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -390,6 +396,7 @@
             "guid": "FX94Xk`R+:", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -442,6 +449,7 @@
             "guid": "lbnr{;XT6j", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Objeto_vestir"
             ]
@@ -555,13 +563,14 @@
             "fields": [
                 "食堂", 
                 "食堂[しょくどう]", 
-                "comedor", 
+                "Comedor", 
                 ""
             ], 
             "flags": 0, 
             "guid": "izgGfAX>/o", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección3", 
                 "Lugar"
             ]
@@ -604,7 +613,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "受付 ", 
+                "受付", 
                 "受付[うけつけ]", 
                 "Recepción, recibidor", 
                 ""
@@ -751,6 +760,7 @@
             "guid": "fD(e[4R5i1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto"
             ]
@@ -761,13 +771,14 @@
             "fields": [
                 "新聞", 
                 "新聞[しんぶん]", 
-                "periódico", 
+                "Periódico", 
                 ""
             ], 
             "flags": 0, 
             "guid": "L!qUQ$aMRg", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto"
             ]
@@ -819,6 +830,7 @@
             "guid": "ybdg6P@X%I", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto"
             ]
@@ -853,6 +865,7 @@
             "guid": "K*)lI$.2aX", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto"
             ]
@@ -870,6 +883,7 @@
             "guid": "x=:U!uj,n^", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto_vestir"
             ]
@@ -904,6 +918,7 @@
             "guid": "hze^=lK=p`", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto_electronico"
             ]
@@ -922,6 +937,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección2"
             ]
         }, 
@@ -938,6 +954,7 @@
             "guid": "yTV|{Gmc_f", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Medio_de_transporte"
             ]
@@ -1041,6 +1058,7 @@
             "guid": "u`@uSTtW24", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Objeto_oficina_aula"
             ]
@@ -1154,6 +1172,8 @@
                 "行きます", 
                 "行[い、ゆ]きます", 
                 "ir, ir de paso", 
+                "行[い]きます", 
+                "ir", 
                 "行く"
             ], 
             "flags": 0, 
@@ -1178,6 +1198,7 @@
             "guid": "AlV*^5,?Dt", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Verbo"
             ]
@@ -1195,6 +1216,7 @@
             "guid": "b3K[`.IzXk", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Verbo"
             ]
@@ -1212,6 +1234,7 @@
             "guid": "j#P>X][IQ#", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Lugar"
             ]
@@ -1246,6 +1269,7 @@
             "guid": "rBJqP=><x[", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Lugar"
             ]
@@ -1348,6 +1372,7 @@
             "guid": "T?Q2ww;y3", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Medio_de_transporte"
             ]
@@ -1433,6 +1458,7 @@
             "guid": "As*m(H6_ev", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Sustantivo_abstracto"
             ]
@@ -1485,6 +1511,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -1537,6 +1564,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -1572,6 +1600,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -1589,6 +1618,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -1640,6 +1670,7 @@
             "guid": "E(!Vw>(;lE", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5", 
                 "Particula_interrogativa"
             ]
@@ -1793,6 +1824,7 @@
             "guid": "M%cwxrkmTl", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección11", 
                 "Verbo"
             ]
@@ -1828,6 +1860,7 @@
             "guid": "P$lvmXu{;(", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección11", 
                 "Objeto_oficina_aula"
             ]
@@ -1931,6 +1964,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección11"
             ]
         }, 
@@ -2066,6 +2100,7 @@
             "guid": "g^NU!0Im#C", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección11", 
                 "Sustantivo_abstracto"
             ]
@@ -2083,6 +2118,7 @@
             "guid": "P.lk#yO9BK", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Verbo"
             ]
@@ -2101,6 +2137,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección10"
             ]
         }, 
@@ -2117,6 +2154,7 @@
             "guid": "l(ys{{D6c<", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Ser"
             ]
@@ -2134,6 +2172,7 @@
             "guid": "OYvH|*r4/=", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Ser"
             ]
@@ -2151,6 +2190,7 @@
             "guid": "NH6510$f#{", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Ser"
             ]
@@ -2168,6 +2208,7 @@
             "guid": "w{g4.,dAr8", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Ser"
             ]
@@ -2185,6 +2226,7 @@
             "guid": "CnUHyATKpA", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Ser"
             ]
@@ -2219,6 +2261,7 @@
             "guid": "k7kp~qjW&a", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Lugar"
             ]
@@ -2358,6 +2401,7 @@
             "guid": "vIkzw(]L~W", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Lugar"
             ]
@@ -2368,7 +2412,7 @@
             "fields": [
                 "上", 
                 "上[うえ]", 
-                "arriba", 
+                "Arriba, sobre", 
                 ""
             ], 
             "flags": 0, 
@@ -2376,6 +2420,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Indicador_de_posicion", 
+                "JLPT.N5", 
                 "Lección10"
             ]
         }, 
@@ -2393,6 +2438,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Indicador_de_posicion", 
+                "JLPT.N5", 
                 "Lección10"
             ]
         }, 
@@ -2427,6 +2473,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Indicador_de_posicion", 
+                "JLPT.N5", 
                 "Lección10"
             ]
         }, 
@@ -2647,6 +2694,7 @@
             "guid": "r4w!cA8AJD", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección10", 
                 "Lugar"
             ]
@@ -2769,6 +2817,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección9"
             ]
         }, 
@@ -2786,6 +2835,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección9"
             ]
         }, 
@@ -2803,6 +2853,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección9"
             ]
         }, 
@@ -2829,7 +2880,7 @@
             "fields": [
                 "料理", 
                 "料理[りょうり]", 
-                "platillo, comida", 
+                "Cocina típica, platillo", 
                 ""
             ], 
             "flags": 0, 
@@ -2871,6 +2922,7 @@
             "guid": "DW]RS(Tp|-", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Sustantivo_abstracto"
             ]
@@ -2888,6 +2940,7 @@
             "guid": "jd~4X1hYS|", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Sustantivo_abstracto"
             ]
@@ -2905,6 +2958,7 @@
             "guid": "J@(w2~}I~,", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Sustantivo_abstracto"
             ]
@@ -2922,6 +2976,7 @@
             "guid": "l>#kkO.v$V", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Sustantivo_abstracto"
             ]
@@ -2956,6 +3011,7 @@
             "guid": "P.m.l3qlMq", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Sustantivo_abstracto"
             ]
@@ -2990,6 +3046,7 @@
             "guid": "or1}5%FTsj", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección9", 
                 "Sustantivo_abstracto"
             ]
@@ -3077,6 +3134,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección9"
             ]
         }, 
@@ -3349,6 +3407,7 @@
             "guid": "CvAM_nMc(p", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección4", 
                 "Verbo"
             ]
@@ -3366,6 +3425,7 @@
             "guid": "v6#lwFnQbE", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección4", 
                 "Verbo"
             ]
@@ -3434,6 +3494,7 @@
             "guid": "K(JtRQV2W7", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección4", 
                 "Lugar"
             ]
@@ -3487,6 +3548,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3591,6 +3653,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3608,6 +3671,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3695,6 +3759,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3712,6 +3777,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3729,6 +3795,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3782,6 +3849,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3799,6 +3867,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3902,6 +3971,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Fecha", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3919,6 +3989,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Fecha", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3928,7 +3999,7 @@
             "fields": [
                 "水曜日", 
                 "水曜日[すいようび]", 
-                "miércoles", 
+                "Miércoles", 
                 ""
             ], 
             "flags": 0, 
@@ -3936,6 +4007,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Fecha", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3953,7 +4025,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Fecha", 
-                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -3971,6 +4042,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Fecha", 
+                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -4072,6 +4144,7 @@
             "guid": "QZ_`wL&2EA", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección16", 
                 "Verbo"
             ]
@@ -4089,6 +4162,7 @@
             "guid": "K%=uQ*U0R", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección16", 
                 "Verbo"
             ]
@@ -4142,7 +4216,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
-                "JLPT.N5", 
                 "Lección16"
             ]
         }, 
@@ -4204,7 +4277,7 @@
             "fields": [
                 "暗い", 
                 "暗[くら]い", 
-                "oscuro", 
+                "Oscuro, melancólico", 
                 ""
             ], 
             "flags": 0, 
@@ -4212,6 +4285,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección16"
             ]
         }, 
@@ -4381,6 +4455,7 @@
             "guid": "d5;>r<UGxM", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección16", 
                 "Lugar"
             ]
@@ -4593,23 +4668,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "早い<div>速い</div>", 
-                "早[はや]い<div>速[はや]い</div>", 
-                "rápido, temprano", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "sgP(kPP$en", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "Adjetivo", 
-                "Lección12"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "遅い", 
                 "遅[おそ]い", 
                 "lento, tarde", 
@@ -4620,6 +4678,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4637,6 +4696,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4654,6 +4714,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4681,7 +4742,7 @@
             "fields": [
                 "涼しい", 
                 "涼[すず]しい", 
-                "fresco", 
+                "Fresco, refrescante", 
                 ""
             ], 
             "flags": 0, 
@@ -4689,6 +4750,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4724,6 +4786,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4741,6 +4804,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4758,6 +4822,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4896,7 +4961,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Clima", 
-                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -4914,6 +4978,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Clima", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -5015,6 +5080,7 @@
             "guid": "EA>5GKveKD", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección12", 
                 "Lugar"
             ]
@@ -5057,8 +5123,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)祭り", 
-                "(お) 祭[まつ]り", 
+                "お祭り", 
+                "お 祭[まつ]り", 
                 "festival", 
                 ""
             ], 
@@ -5152,6 +5218,7 @@
             "guid": "EsiNQ.p:~z", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Verbo"
             ]
@@ -5186,6 +5253,7 @@
             "guid": "e;2RP?;aks", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Verbo"
             ]
@@ -5203,6 +5271,7 @@
             "guid": "b(0}cGy5Y/", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Verbo"
             ]
@@ -5220,6 +5289,7 @@
             "guid": "eXrt!d1?sI", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Verbo"
             ]
@@ -5254,6 +5324,7 @@
             "guid": "lK`$]8?&*", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Verbo"
             ]
@@ -5279,8 +5350,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お) 箸", 
-                "(お) 箸[はし]", 
+                "お 箸", 
+                "お 箸[はし]", 
                 "palillos", 
                 ""
             ], 
@@ -5356,6 +5427,7 @@
             "guid": "vkBmWs4(.H", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Objeto_oficina_aula"
             ]
@@ -5366,13 +5438,14 @@
             "fields": [
                 "シャツ", 
                 "シャツ", 
-                "camisa", 
+                "Playera, camisa", 
                 ""
             ], 
             "flags": 0, 
             "guid": "hCTR6Eie}(", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Objeto_vestir"
             ]
@@ -5415,8 +5488,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)金", 
-                "(お) 金[かね]", 
+                "お金", 
+                "お 金[かね]", 
                 "dinero", 
                 ""
             ], 
@@ -5424,6 +5497,7 @@
             "guid": "i3AfY_qj2W", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Objeto"
             ]
@@ -5441,6 +5515,7 @@
             "guid": "xriRC}}0_F", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección7", 
                 "Objeto"
             ]
@@ -5459,7 +5534,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
-                "JLPT.N5", 
                 "Lección7"
             ]
         }, 
@@ -5511,6 +5585,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección7"
             ]
         }, 
@@ -5646,7 +5721,6 @@
             "guid": "b_1&S<4<2<", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección7", 
                 "Sustantivo_abstracto"
             ]
@@ -5715,6 +5789,7 @@
             "guid": "NF*Z(!TQ#", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -5732,6 +5807,7 @@
             "guid": "ySmz`%)4l[", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -5749,7 +5825,6 @@
             "guid": "mg51nYR8l1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -5767,6 +5842,7 @@
             "guid": "NL|*{vgaD@", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -5777,13 +5853,14 @@
             "fields": [
                 "吸います", 
                 "吸[す]います", 
-                "fumar", 
+                "Fumar", 
                 "吸う"
             ], 
             "flags": 0, 
             "guid": "H/i{G9Ex>P", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -5836,6 +5913,7 @@
             "guid": "oY7yG]%Jue", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Verbo"
             ]
@@ -5854,6 +5932,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -5922,6 +6001,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -5939,7 +6019,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
-                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -5949,7 +6028,7 @@
             "fields": [
                 "果物", 
                 "果物[くだもの]", 
-                "frutas", 
+                "fruta", 
                 ""
             ], 
             "flags": 0, 
@@ -5957,6 +6036,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -5991,6 +6071,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6025,6 +6106,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6041,6 +6123,7 @@
             "guid": "wo{~~P(8&8", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Objeto"
             ]
@@ -6068,13 +6151,14 @@
             "fields": [
                 "宿題", 
                 "宿題[しゅくだい]", 
-                "tareas", 
+                "Tarea", 
                 ""
             ], 
             "flags": 0, 
             "guid": "s)y$M?^rRd", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección6", 
                 "Objeto_oficina_aula"
             ]
@@ -6093,6 +6177,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6127,6 +6212,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6178,6 +6264,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6247,6 +6334,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6264,6 +6352,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección6"
             ]
         }, 
@@ -6434,6 +6523,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6451,6 +6541,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6485,7 +6576,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
-                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6520,6 +6610,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6588,6 +6679,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6675,7 +6767,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
-                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6711,6 +6802,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6745,7 +6837,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
-                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6797,7 +6888,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
-                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6832,6 +6922,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6849,6 +6940,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6901,6 +6993,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Color", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6918,6 +7011,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Color", 
+                "JLPT.N5", 
                 "Lección8"
             ]
         }, 
@@ -6970,6 +7064,7 @@
             "guid": "J[a1U~&IL,", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección2", 
                 "Medio_de_transporte"
             ]
@@ -6987,7 +7082,6 @@
             "guid": "e.u!Pc)cNt", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección8", 
                 "Lugar"
             ]
@@ -7047,8 +7141,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)仕事", 
-                "(お) 仕事[しごと]", 
+                "お仕事", 
+                "お 仕事[しごと]", 
                 "trabajo", 
                 ""
             ], 
@@ -7056,6 +7150,7 @@
             "guid": "rrcf,MHs~y", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección8", 
                 "Sustantivo_abstracto"
             ]
@@ -7159,6 +7254,7 @@
             "guid": "H,sr0.A7`l", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección13", 
                 "Verbo"
             ]
@@ -7228,6 +7324,7 @@
             "guid": "PWft^5])Eo", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección13", 
                 "Verbo"
             ]
@@ -7245,6 +7342,7 @@
             "guid": "E2$Vl<*pQ.", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección13", 
                 "Verbo"
             ]
@@ -7279,6 +7377,7 @@
             "guid": "l(/p[cd%R#", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección13", 
                 "Verbo"
             ]
@@ -7432,6 +7531,7 @@
             "guid": "KkJ1a/B5TV", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección13", 
                 "Lugar"
             ]
@@ -7585,7 +7685,6 @@
             "guid": "oLrULZvBu6", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección1", 
                 "Pronombre_personal"
             ]
@@ -7689,6 +7788,7 @@
             "guid": "yb&dsm:4V-", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección1", 
                 "Profesion"
             ]
@@ -7997,6 +8097,7 @@
             "guid": "LLwg9:~z,}", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección17", 
                 "Verbo"
             ]
@@ -8014,7 +8115,6 @@
             "guid": "iw(SfJh:J4", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección17", 
                 "Verbo"
             ]
@@ -8204,6 +8304,7 @@
             "guid": "IxPRg)..^p", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección17", 
                 "Sustantivo_abstracto"
             ]
@@ -8255,6 +8356,7 @@
             "guid": "rO.G[UsYX_", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección17", 
                 "Objeto"
             ]
@@ -8272,6 +8374,7 @@
             "guid": "kztI(@(Ks2", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección17", 
                 "Lugar"
             ]
@@ -8357,6 +8460,7 @@
             "guid": "s}J%49SU.M", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección17", 
                 "Objeto_vestir"
             ]
@@ -8459,7 +8563,6 @@
             "guid": "i@JL)Kc+`Y", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -8511,7 +8614,6 @@
             "guid": "y,v(mU}KE*", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -8531,13 +8633,8 @@
             "tags": [
                 "JLPT.N5", 
                 "Lección14", 
-<<<<<<< .merge_file_a18576
-                "Verbo", 
-                "transitivo"
-=======
                 "transitivo", 
                 "Verbo"
->>>>>>> .merge_file_a23412
             ]
         }, 
         {
@@ -8546,13 +8643,14 @@
             "fields": [
                 "閉めます", 
                 "閉[し]めます", 
-                "cerrar", 
+                "Cerrar (transitivo)", 
                 "閉める"
             ], 
             "flags": 0, 
             "guid": "Gp(EK;5]}~", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -8587,6 +8685,7 @@
             "guid": "G4yMr4$-bc", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -8672,6 +8771,7 @@
             "guid": "e*Gq.$yB80", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -8724,7 +8824,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Expresion_de_tiempo", 
-                "JLPT.N5", 
                 "Lección14"
             ]
         }, 
@@ -8827,6 +8926,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección14"
             ]
         }, 
@@ -8836,7 +8936,7 @@
             "fields": [
                 "砂糖", 
                 "砂糖[さとう]", 
-                "azúcar", 
+                "Azúcar", 
                 ""
             ], 
             "flags": 0, 
@@ -8844,6 +8944,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección14"
             ]
         }, 
@@ -8964,7 +9065,6 @@
             "guid": "sRF>[<H%];", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección19", 
                 "Verbo"
             ]
@@ -9051,7 +9151,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
-                "JLPT.N5", 
                 "Lección19"
             ]
         }, 
@@ -9205,6 +9304,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección19"
             ]
         }, 
@@ -9391,6 +9491,7 @@
             "guid": "yq.a@;(-5d", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección18", 
                 "Verbo"
             ]
@@ -9476,7 +9577,6 @@
             "guid": "p8at;jzp5{", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección18", 
                 "Sustantivo_abstracto"
             ]
@@ -9487,7 +9587,7 @@
             "fields": [
                 "趣味", 
                 "趣味[しゅみ]", 
-                "afición", 
+                "Afición, hobby", 
                 ""
             ], 
             "flags": 0, 
@@ -9783,6 +9883,7 @@
             "guid": "Aa2`Dm)65h", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección15", 
                 "Verbo"
             ]
@@ -9800,6 +9901,7 @@
             "guid": "K%nZf@HlI`", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección15", 
                 "Verbo"
             ]
@@ -9817,6 +9919,7 @@
             "guid": "z8;O-*bpEV", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección15", 
                 "Verbo"
             ]
@@ -9827,13 +9930,14 @@
             "fields": [
                 "知ります", 
                 "知[し]ります", 
-                "saber, enterarse", 
+                "Saber, enterarse", 
                 "知る"
             ], 
             "flags": 0, 
             "guid": "b%tpgtx[PG", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección15", 
                 "Verbo"
             ]
@@ -10192,6 +10296,7 @@
             "guid": "H@Gnk[XmKm", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección4", 
                 "Objeto"
             ]
@@ -10369,8 +10474,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)花見", 
-                "(お) 花見[はなみ]", 
+                "お花見", 
+                "お 花見[はなみ]", 
                 "ver las flores de cerezo", 
                 ""
             ], 
@@ -10480,7 +10585,6 @@
             "guid": "M5DS#@9W-0", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección8", 
                 "Lugar"
             ]
@@ -10838,7 +10942,6 @@
             "guid": "vL_!==(Vj$", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección11", 
                 "Sustantivo_abstracto"
             ]
@@ -10856,7 +10959,6 @@
             "guid": "EE;zL`e#2u", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección11", 
                 "Sustantivo_abstracto"
             ]
@@ -10943,6 +11045,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección12"
             ]
         }, 
@@ -11001,8 +11104,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "皿", 
-                "皿[さら]", 
+                "お皿", 
+                "お 皿[さら]", 
                 "platos", 
                 ""
             ], 
@@ -11011,6 +11114,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Alimentacion", 
+                "JLPT.N5", 
                 "Lección14"
             ]
         }, 
@@ -11045,7 +11149,6 @@
             "guid": "hp.)q8NC}s", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -11183,7 +11286,6 @@
             "guid": "y@B5~=;so?", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección14", 
                 "Lección17", 
                 "Sustantivo_abstracto"
@@ -11237,6 +11339,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
+                "JLPT.N5", 
                 "Lección14"
             ]
         }, 
@@ -11392,7 +11495,6 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Elementos_oracion", 
-                "JLPT.N5", 
                 "Lección16"
             ]
         }, 
@@ -11579,6 +11681,7 @@
             "guid": "d*7sd(*k{m", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección16", 
                 "Verbo"
             ]
@@ -11683,7 +11786,6 @@
             "guid": "udd>K&CAVF", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección14", 
                 "Verbo"
             ]
@@ -11786,6 +11888,7 @@
             "guid": "J%aeC}[Kb+", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección17", 
                 "Verbo"
             ]
@@ -11888,6 +11991,7 @@
             "guid": "e.{GH:sjP{", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección15", 
                 "Verbo"
             ]
@@ -12340,6 +12444,7 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Frases_hechas", 
+                "JLPT.N5", 
                 "Lección20"
             ]
         }, 
@@ -12458,6 +12563,7 @@
             "guid": "0]%j6", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección20", 
                 "Objeto"
             ]
@@ -12810,7 +12916,6 @@
             "guid": "yu)|K", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección4"
             ]
         }, 
@@ -12875,7 +12980,6 @@
             "guid": "d}]sN", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -12892,6 +12996,7 @@
             "guid": "pgh-B", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -12908,7 +13013,6 @@
             "guid": "g1AOH", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -12941,7 +13045,6 @@
             "guid": "7kYmN", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -12958,6 +13061,7 @@
             "guid": "p2%R1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección5"
             ]
         }, 
@@ -13299,6 +13403,7 @@
             "guid": "W:OhM", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección21"
             ]
         }, 
@@ -13466,8 +13571,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)話", 
-                "(お) 話[はなし]", 
+                "お話", 
+                "お 話[はなし]", 
                 "Discurso, cuento, lo que uno dice", 
                 ""
             ], 
@@ -13482,10 +13587,10 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)話をします", 
-                "(お) 話[はなし]をします", 
+                "お話をします", 
+                "お 話[はなし]をします", 
                 "Hablar sobre algo", 
-                "(お)話をする"
+                "お話をする"
             ], 
             "flags": 0, 
             "guid": "=VczQ", 
@@ -13731,7 +13836,9 @@
             "guid": "Z{?-5", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "Lección22"
+                "JLPT.N5", 
+                "Lección22", 
+                "Verbo"
             ]
         }, 
         {
@@ -13859,6 +13966,7 @@
             "guid": "2bP@E", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección22"
             ]
         }, 
@@ -13891,6 +13999,7 @@
             "guid": "g9ctT", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección22"
             ]
         }, 
@@ -13955,7 +14064,6 @@
             "guid": "!kcWM", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección22"
             ]
         }, 
@@ -14181,7 +14289,6 @@
             "guid": "aU<AT", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5", 
                 "Lección23"
             ]
         }, 
@@ -14237,7 +14344,7 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "引っ越しします ", 
+                "引っ越しします", 
                 "引[ひ]っ 越[こ]しします", 
                 "Mudar, trasladarse de casa ", 
                 "引っ越しする"
@@ -14287,7 +14394,7 @@
             "fields": [
                 "音", 
                 "音[おと]", 
-                "Sonido ", 
+                "Sonido, ruido", 
                 ""
             ], 
             "flags": 0, 
@@ -14374,6 +14481,7 @@
             "guid": "t06j", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección23"
             ]
         }, 
@@ -14390,6 +14498,7 @@
             "guid": ">a*!9", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "Lección23"
             ]
         }, 
@@ -14429,8 +14538,8 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "(お)正月", 
-                "(お) 正月[しょうがつ]", 
+                "お正月", 
+                "お 正月[しょうがつ]", 
                 "Año nuevo ", 
                 ""
             ], 
@@ -14534,6 +14643,7 @@
             "guid": "Z|!^G", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "JLPT.N5", 
                 "puntoCardinal"
             ]
         }, 
@@ -14543,22 +14653,16 @@
             "fields": [
                 "開きます", 
                 "開[あ]きます", 
-                "Abrir (intransitivo)", 
+                "Abrirse (intransitivo)", 
                 "開く"
             ], 
             "flags": 0, 
             "guid": "=dMH1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-<<<<<<< .merge_file_a18576
-                "JLPT.N5", 
-                "Verbo", 
-                "intransitivo"
-=======
                 "intransitivo", 
                 "JLPT.N5", 
                 "Verbo"
->>>>>>> .merge_file_a23412
             ]
         }, 
         {
@@ -14686,13 +14790,16 @@
             "fields": [
                 "意味", 
                 "意味[いみ]", 
-                "Significado", 
+                "Significado, sentido", 
                 ""
             ], 
             "flags": 0, 
             "guid": "6tRD1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "Lección24"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14706,7 +14813,10 @@
             "flags": 0, 
             "guid": "A+/e2", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "pariente"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14720,7 +14830,9 @@
             "flags": 0, 
             "guid": "^}1@Q", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14734,7 +14846,9 @@
             "flags": 0, 
             "guid": "X@y0F", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14748,7 +14862,9 @@
             "flags": 0, 
             "guid": "BDyeR", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14762,7 +14878,9 @@
             "flags": 0, 
             "guid": "r.Mc5", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14776,7 +14894,10 @@
             "flags": 0, 
             "guid": "9cQOC", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "Adjetivo", 
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14790,7 +14911,9 @@
             "flags": 0, 
             "guid": "Hh/43", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14804,21 +14927,26 @@
             "flags": 0, 
             "guid": "<]],4", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5"
+            ]
         }, 
         {
             "__type__": "Note", 
             "data": "", 
             "fields": [
                 "お母さん", 
-                "お母[かあ]さん", 
+                "お 母[かあ]さん", 
                 "Mamá", 
                 ""
             ], 
             "flags": 0, 
             "guid": "OB6pJ", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "pariente"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14826,13 +14954,16 @@
             "fields": [
                 "お菓子", 
                 "お 菓子[かし]", 
-                "Dulces", 
+                "Dulces, caramelo", 
                 ""
             ], 
             "flags": 0, 
             "guid": "SN4sC", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "Lección24"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14846,7 +14977,10 @@
             "flags": 0, 
             "guid": "L@j2V", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "pariente"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14860,7 +14994,11 @@
             "flags": 0, 
             "guid": "Xd}n9", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "Lección24", 
+                "pariente"
+            ]
         }, 
         {
             "__type__": "Note", 
@@ -14874,14 +15012,17 @@
             "flags": 0, 
             "guid": "IqT=S", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": []
+            "tags": [
+                "JLPT.N5", 
+                "pariente"
+            ]
         }, 
         {
             "__type__": "Note", 
             "data": "", 
             "fields": [
                 "お父さん", 
-                "お父[とう]さん", 
+                "お 父[とう]さん", 
                 "Papá ", 
                 ""
             ], 
@@ -14897,11 +15038,7 @@
             "data": "", 
             "fields": [
                 "弟", 
-<<<<<<< .merge_file_a18576
                 "弟[おとうと]", 
-=======
-                "弟", 
->>>>>>> .merge_file_a23412
                 "Hermano menor", 
                 ""
             ], 
@@ -14949,15 +15086,16 @@
             "data": "", 
             "fields": [
                 "お兄さん", 
-                "お兄[にい]さん", 
-                "Hermano mayor", 
+                "お 兄[にい]さん", 
+                "Su hermano mayor", 
                 ""
             ], 
             "flags": 0, 
             "guid": "uVr5C", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "pariente"
             ]
         }, 
         {
@@ -14965,15 +15103,16 @@
             "data": "", 
             "fields": [
                 "お姉さん", 
-                "お姉[ねえ]さん", 
-                "Hermana mayor", 
+                "お 姉[ねえ]さん", 
+                "Su hermana mayor", 
                 ""
             ], 
             "flags": 0, 
             "guid": "l}FH1", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "pariente"
             ]
         }, 
         {
@@ -14989,7 +15128,9 @@
             "guid": "W8HmQ", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "Lección24", 
+                "pariente"
             ]
         }, 
         {
@@ -15005,7 +15146,8 @@
             "guid": "ytUdK", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "pariente"
             ]
         }, 
         {
@@ -15014,14 +15156,15 @@
             "fields": [
                 "お弁当", 
                 "お 弁当[べんとう]", 
-                "Lunch", 
+                "Lunch en caja portátil", 
                 ""
             ], 
             "flags": 0, 
             "guid": "lMppT", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "Lección24"
             ]
         }, 
         {
@@ -15061,7 +15204,7 @@
             "data": "", 
             "fields": [
                 "家庭", 
-                "家庭", 
+                "家庭[かてい]", 
                 "Household", 
                 ""
             ], 
@@ -15117,6 +15260,7 @@
             "guid": "Oq[;U", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
+                "Color", 
                 "JLPT.N5"
             ]
         }, 
@@ -15133,7 +15277,8 @@
             "guid": "4X{X5", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "Verbo"
             ]
         }, 
         {
@@ -15149,7 +15294,8 @@
             "guid": "~LnbO", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
-                "JLPT.N5"
+                "JLPT.N5", 
+                "pariente"
             ]
         }, 
         {
@@ -15158,7 +15304,7 @@
             "fields": [
                 "キロ", 
                 "キロ", 
-                "Kilo", 
+                "Kilogramo, kilómetro", 
                 ""
             ], 
             "flags": 0, 
@@ -15206,7 +15352,7 @@
             "fields": [
                 "グラム", 
                 "グラム", 
-                "Gram", 
+                "Gramo", 
                 ""
             ], 
             "flags": 0, 
@@ -15288,11 +15434,1261 @@
             "fields": [
                 "いかが", 
                 "いかが", 
-                "Cómo", 
+                "De qué forma", 
                 ""
             ], 
             "flags": 0, 
             "guid": "KK.>P", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "一日", 
+                "一日[いちにち]", 
+                "Un día", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "11@>7", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "五つ", 
+                "五[いつ]つ", 
+                "Cinco (contador general)", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Fj{&J", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "英語", 
+                "英語[えいご]", 
+                "Inglés ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "-Q5`I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Idioma", 
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "お腹", 
+                "お 腹[なか]", 
+                "Estómago, panza ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "jii,2", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Parte_del_cuerpo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "外国人", 
+                "外国人[がいこくじん]", 
+                "Persona extranjera ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "l|}9T", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "風", 
+                "風[かぜ]", 
+                "Viento", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "p?<)6", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "体", 
+                "体[からだ]", 
+                "Cuerpo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "NORhB", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Parte_del_cuerpo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "かわいい", 
+                "かわいい", 
+                "Cute", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "&a$2E", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ギター", 
+                "ギター", 
+                "Guitarra", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "i)k[7", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "汚い", 
+                "汚[きたな]い", 
+                "Sucio", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ")}z)R", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "九", 
+                "九[きゅう]", 
+                "Nueve", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "vEJ,H", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "牛肉", 
+                "牛肉[ぎゅうにく]", 
+                "Carne de res", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "^a]W1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Alimentacion", 
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "口", 
+                "口[くち]", 
+                "Boca, apertura", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "X$,kI", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Parte_del_cuerpo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "靴下", 
+                "靴下[くつした]", 
+                "Calcetines", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "a|>>5", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Ropa"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "国", 
+                "国[くに]", 
+                "País ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "UB3dU", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "曇ります", 
+                "曇[くも]ります", 
+                "Nublarse", 
+                "曇り"
+            ], 
+            "flags": 0, 
+            "guid": "4M0{2", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "五", 
+                "五[ご]", 
+                "Cinco", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "*)[r", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "交番", 
+                "交番[こうばん]", 
+                "Caseta de policía ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "<#H+I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "声", 
+                "声[こえ]", 
+                "Voz", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "3jeDT", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "九つ", 
+                "九[ここの]つ", 
+                "Nueve (contador general) ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Q;#~7", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "答えます", 
+                "答[こた]えます", 
+                "Contestar", 
+                "答える"
+            ], 
+            "flags": 0, 
+            "guid": "ZwV|L", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "コップ", 
+                "コップ", 
+                "Vaso", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "goU4R", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "子供", 
+                "子供[こども]", 
+                "Niño", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "$=O8I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "困ります", 
+                "困[こま]ります", 
+                "Preocuparse (de uno mismo)", 
+                "困る"
+            ], 
+            "flags": 0, 
+            "guid": "mCFTK", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "こんな", 
+                "こんな", 
+                "Tal", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "8J(!T", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "財布", 
+                "財布[さいふ]", 
+                "Cartera", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "NKM12", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "先", 
+                "先[さき]", 
+                "El futuro, anterior", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "`PiwG", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "咲きます", 
+                "咲[さ]きます", 
+                "Florecer", 
+                "咲く"
+            ], 
+            "flags": 0, 
+            "guid": "v],ZD", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "作文", 
+                "作文[さくぶん]", 
+                "Composición, ensayo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ojt?6", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "差します", 
+                "差[さ]します", 
+                "Extender un paraguas", 
+                "差す"
+            ], 
+            "flags": 0, 
+            "guid": "[fqRN", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "くれます", 
+                "くれます", 
+                "Dar (me)", 
+                "くれる"
+            ], 
+            "flags": 0, 
+            "guid": "Z[9A", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "連れて行きます", 
+                "連[つ]れて 行[い]きます", 
+                "Llevar (a alguien)", 
+                "連れて行く"
+            ], 
+            "flags": 0, 
+            "guid": "np:dM", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "連れて来ます", 
+                "連[つ]れて 来[き]ます", 
+                "Traer (a alguien)", 
+                "連れて来る"
+            ], 
+            "flags": 0, 
+            "guid": "WhGxR", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "人に送ります", 
+                "人[ひと]に 送[おく]ります", 
+                "Acompañar a alguien", 
+                "人に送る"
+            ], 
+            "flags": 0, 
+            "guid": "kzhfU", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "紹介します", 
+                "紹介[しょうかい]します", 
+                "Presentar (a alguien)", 
+                "紹介する"
+            ], 
+            "flags": 0, 
+            "guid": ".F2qL", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Leccion24", 
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "案内します", 
+                "案内[あんない]します", 
+                "Guiar por, indicar el camino", 
+                "案内する"
+            ], 
+            "flags": 0, 
+            "guid": "n!3~M", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "説明します", 
+                "説明[せつめい]します", 
+                "Explicar", 
+                "説明する"
+            ], 
+            "flags": 0, 
+            "guid": "2dt$I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "いれます", 
+                "いれます", 
+                "Preparar", 
+                "いれる"
+            ], 
+            "flags": 0, 
+            "guid": ")&(KN", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "コーヒーをいれます", 
+                "コーヒーをいれます", 
+                "Preparar café", 
+                "コーヒーをいれる"
+            ], 
+            "flags": 0, 
+            "guid": "?19WS", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "準備", 
+                "準備[じゅんび]", 
+                "Preparación", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "`&/MT", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "準備します", 
+                "準備[じゅんび]します", 
+                "Preparar", 
+                "準備する"
+            ], 
+            "flags": 0, 
+            "guid": "}5Sh", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "全部", 
+                "全部[ぜんぶ]", 
+                "Todo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "LoR+G", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "自分で", 
+                "自分[じぶん]で", 
+                "Solo/a", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ":wPpJ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ほかに", 
+                "ほかに", 
+                "Además, aparte", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ".e6gA", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ワゴン車", 
+                "ワゴン 車[しゃ]", 
+                "Furgoneta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "kXERJ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección24"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "考えます", 
+                "考[かんが]えます", 
+                "Pensar, considerar, opinar", 
+                "考える"
+            ], 
+            "flags": 0, 
+            "guid": "bxWNJ", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "着きます", 
+                "着[つ]きます", 
+                "Llegar, arribar", 
+                "着く"
+            ], 
+            "flags": 0, 
+            "guid": "%9;ET", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "駅に着きます", 
+                "駅[えき]に 着[つ]きます", 
+                "Llegar a la estación", 
+                "駅に着く"
+            ], 
+            "flags": 0, 
+            "guid": "7u/!M", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "留学します", 
+                "留学[りゅうがく]します", 
+                "Estudiar en el extranjero", 
+                "留学する"
+            ], 
+            "flags": 0, 
+            "guid": "n1H7T", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "年を取ります", 
+                "年[とし]を 取[と]ります", 
+                "Envejecer", 
+                "年を取る"
+            ], 
+            "flags": 0, 
+            "guid": "1m12R", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "田舎", 
+                "田舎[いなか]", 
+                "Zona rural, pueblo natal", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "OKW|M", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "大使館", 
+                "大使館[たいしかん]", 
+                "Embajada", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "_8N:", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "グループ", 
+                "グループ", 
+                "Grupo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "+nv&5", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "チャンス", 
+                "チャンス", 
+                "Oportunidad", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "[b.z7", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "億", 
+                "億[おく]", 
+                "Cien millones", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ".XfH8", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Lección25"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "再来年", 
+                "再来年[さらいねん]", 
+                "Pasado el siguiente año", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Vm1@N", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "三", 
+                "三[さん]", 
+                "Tres", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ";C=/L", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "四", 
+                "四[し/よん]", 
+                "Cuatro", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Kc$BE", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "七", 
+                "七[しち/なな]", 
+                "Siete", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "LfFZC", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "質問", 
+                "質問[しつもん]", 
+                "Pregunta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "ZA=x2", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "死にます", 
+                "死[し]にます", 
+                "Morir", 
+                "死ね"
+            ], 
+            "flags": 0, 
+            "guid": "C1TuP", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "字引", 
+                "字引[じびき]", 
+                "Diccionario", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "RF)hK", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "自分", 
+                "自分[じぶん]", 
+                "Uno mismo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "lq,56", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "閉まります", 
+                "閉[し]まります", 
+                "Cerrarse (intransitivo)", 
+                "閉まる"
+            ], 
+            "flags": 0, 
+            "guid": "`{$@O", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "締めます", 
+                "締[し]めます", 
+                "Amarrar", 
+                "締める"
+            ], 
+            "flags": 0, 
+            "guid": "^<2wR", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Verbo"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "十", 
+                "十[じゅう]", 
+                "Diez", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "q6QJI", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "授業", 
+                "授業[じゅぎょ]", 
+                "Lección, trabajo en clase", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "4:?-M", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "丈夫", 
+                "丈夫[じょうぶ]", 
+                "Resistente, durable", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "|Nn5L", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "しょうゆ", 
+                "しょうゆ", 
+                "Salsa de soya", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "5S8*H", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "スカート", 
+                "スカート", 
+                "Falda", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "}G[0K", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Ropa"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "すぐに", 
+                "すぐに", 
+                "Instantáneamente", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "7rK3O", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ストーブ", 
+                "ストーブ", 
+                "Calentador", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "33;vB", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "スボン", 
+                "スボン", 
+                "Pantalón, pants", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "s&A-G", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Ropa"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "スリッパ", 
+                "スリッパ", 
+                "Pantuflos", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ".!dTH", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5", 
+                "Ropa"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "背", 
+                "背[せ]", 
+                "Estatura, espina dorsal", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "hCg}6", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "生徒", 
+                "生徒[せいと]", 
+                "Pupilo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "h})6A", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "JLPT.N5"
