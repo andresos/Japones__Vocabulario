@@ -126,7 +126,7 @@
             ], 
             "latexPost": "\\end{document}", 
             "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n", 
-            "name": "Básico (Japanese)-385c5", 
+            "name": "Básico (Japanese)", 
             "req": [
                 [
                     0, 
@@ -145,7 +145,9 @@
                 ]
             ], 
             "sortf": 0, 
-            "tags": [], 
+            "tags": [
+                "JLPT.N5"
+            ], 
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Meaning}}\n\n", 
@@ -4656,6 +4658,23 @@
             ], 
             "flags": 0, 
             "guid": "QW;O|vTSw5", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "Lección12"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "早い<div>速い</div>", 
+                "早[はや]い<div>速[はや]い</div>", 
+                "rápido, temprano", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "sgP(kPP$en", 
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "Adjetivo", 
@@ -9414,7 +9433,7 @@
             "fields": [
                 "お陰様で", 
                 "お 陰様[かげさま]で", 
-                "Gracias a dios, por suerte", 
+                "gracias a Ud", 
                 ""
             ], 
             "flags": 0, 
