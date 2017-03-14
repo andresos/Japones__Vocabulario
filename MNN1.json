@@ -71,6 +71,7 @@
         "11 - Dai 1 ka- おいくつ.mp3", 
         "11 - Dai 1 ka- 医者.mp3", 
         "11 - Dai 1 ka- はい.mp3", 
+        "_YuGothic-Regular.ttf", 
         "11 - Dai 1 ka- 歳.mp3", 
         "11 - Dai 1 ka- あの人.mp3", 
         "11 - Dai 1 ka- あなた.mp3", 
@@ -80,6 +81,7 @@
         "11 - Dai 1 ka- 教師.mp3", 
         "11 - Dai 1 ka- エンジニア.mp3"
     ], 
+    "mid": 1455017747492, 
     "name": "MNN1", 
     "note_models": [
         {
@@ -15465,374 +15467,6 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "私", 
-                "私[わたくし]", 
-                "Yo (humilde)", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "lgea5", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "ワイシャツ", 
-                "ワイシャツ", 
-                "camisa de trabajo", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "_Or0I", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "六", 
-                "六[ろく]", 
-                "seis", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "dY~_6", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "廊下", 
-                "廊下[ろうか]", 
-                "pasillo", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "?^#j", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "レコード", 
-                "レコード", 
-                "grabadora", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "*WS7S", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "零", 
-                "零[れい]", 
-                "cero", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "3p],G", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "両親", 
-                "両親[りょうしん]", 
-                "padres", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "Hee8D", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "りっぱ", 
-                "りっぱ", 
-                "esplendido", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "6zyJ7", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "ﾗジオカセット", 
-                "ﾗジオカセット", 
-                "radio cassette", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "Gp$n9", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "ﾗジオ", 
-                "ﾗジオ", 
-                "radio", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "4a-TN", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "四つ", 
-                "四[よっ]つ", 
-                "cuatro (contador)", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "DPGN9", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "横", 
-                "横[よこ]", 
-                "al lado de ", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "&L:WG", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "洋服", 
-                "洋服[ようふく]", 
-                "ropa occidental", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "GG~<D", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "昨夜", 
-                "昨夜[ゆうべ]", 
-                "la noche anterior", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "R?@[O", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "夕飯", 
-                "夕[ゆう] 飯[はん]", 
-                "cena", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "gvpqC", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "八つ", 
-                "八[やっ]つ", 
-                "ocho (contador)", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "!uF_P", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "八百屋", 
-                "八百屋[やおや]", 
-                "recaudería", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "28Q9L", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "門", 
-                "門[もん]", 
-                "puerta", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": ":yGM9", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "もっと", 
-                "もっと", 
-                "más", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "GDb}T", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "目", 
-                "目[め]", 
-                "ojo", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": ",%Kk6", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "村", 
-                "村[むら]", 
-                "pueblo", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "I4op7", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "六つ", 
-                "六[むっ]つ", 
-                "seis (contador)", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "S*Vz1", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "向こう", 
-                "向[む]こう", 
-                "over there", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "eZ>$J", 
-            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
-            "tags": [
-                "JLPT.N5"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "一日", 
                 "一日[いちにち]", 
                 "Un día", 
@@ -16743,7 +16377,7 @@
             "fields": [
                 "再来年", 
                 "再来年[さらいねん]", 
-                "Pasado el siguiente año", 
+                "Después del siguiente año", 
                 ""
             ], 
             "flags": 0, 
@@ -17077,6 +16711,391 @@
             "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
             "tags": [
                 "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "私", 
+                "私[わたくし]", 
+                "Yo (humilde)", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "lgea5", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ワイシャツ", 
+                "ワイシャツ", 
+                "camisa de trabajo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "_Or0I", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "六", 
+                "六[ろく]", 
+                "seis", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "dY~_6", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "廊下", 
+                "廊下[ろうか]", 
+                "pasillo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "?^#j", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "レコード", 
+                "レコード", 
+                "grabadora", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "*WS7S", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "零", 
+                "零[れい]", 
+                "cero", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "3p],G", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "両親", 
+                "両親[りょうしん]", 
+                "padres", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Hee8D", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "りっぱ", 
+                "りっぱ", 
+                "esplendido", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "6zyJ7", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ﾗジオカセット", 
+                "ﾗジオカセット", 
+                "radio cassette", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "Gp$n9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "ﾗジオ", 
+                "ﾗジオ", 
+                "radio", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "4a-TN", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "四つ", 
+                "四[よっ]つ", 
+                "cuatro (contador)", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "DPGN9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "横", 
+                "横[よこ]", 
+                "al lado de ", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "&L:WG", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "洋服", 
+                "洋服[ようふく]", 
+                "ropa occidental", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "GG~<D", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "昨夜", 
+                "昨夜[ゆうべ]", 
+                "la noche anterior", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "R?@[O", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "夕飯", 
+                "夕[ゆう] 飯[はん]", 
+                "cena", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "gvpqC", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "八つ", 
+                "八[やっ]つ", 
+                "ocho (contador)", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "!uF_P", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "八百屋", 
+                "八百屋[やおや]", 
+                "recaudería", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "28Q9L", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "門", 
+                "門[もん]", 
+                "puerta", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ":yGM9", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "もっと", 
+                "もっと", 
+                "más", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "GDb}T", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "目", 
+                "目[め]", 
+                "ojo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": ",%Kk6", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "村", 
+                "村[むら]", 
+                "pueblo", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "I4op7", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "六つ", 
+                "六[むっ]つ", 
+                "seis (contador)", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "S*Vz1", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "向こう", 
+                "向[む]こう", 
+                "over there", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "eZ>$J", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "JLPT.N5"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "早い<div>速い</div>", 
+                "早[はや]い<div>速[はや]い</div>", 
+                "rápido, temprano", 
+                ""
+            ], 
+            "flags": 0, 
+            "guid": "sgP(kPP$en", 
+            "note_model_uuid": "2459cce1-a515-11e6-8737-b8763f415db8", 
+            "tags": [
+                "Adjetivo", 
+                "Lección12"
             ]
         }
     ]
